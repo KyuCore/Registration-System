@@ -1,4 +1,4 @@
 # Registration-System
 ## Made by Samy (KyuCore)
 
-you can give feedback plz or contribute if you fid any errors
+you can give feedback plz or contribute if you find any errors
